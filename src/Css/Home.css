@@ -1,0 +1,61 @@
+.button1 {
+  padding: 8px 10px;
+  border: 1px solid rgb(153, 135, 135);
+  border-radius: 10px;
+  background-color: rgb(97, 217, 233);
+  cursor: pointer;
+  box-shadow: 2px 2px 4px rgb(153, 135, 135);
+}
+.sale-button {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 50px;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  left: 95%;
+  top: -35px;
+}
+
+.main-container {
+  width: 90%;
+  margin: auto;
+}
+
+.main2-container {
+    width: 90%;
+    margin: 38px auto;
+  }
+table,
+td,
+th {
+  border: 1px solid;
+  text-align: center;
+  padding: 8px;
+}
+table input {
+  width: 98%;
+  border: none;
+  padding: 5px 0px;
+  text-align: center;
+  background-color: rgb(234, 241, 241);
+  border-radius: 5px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.edit-btn{
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.profile{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
